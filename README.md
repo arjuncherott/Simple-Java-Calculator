@@ -20,7 +20,7 @@ If you use the executable "SimpleJavaCalculator.jar" file and that doesn't work,
 java -jar /your_calculator_directory/SimpleJavaCalculator.jar`
 ```
 
-## :sparkles: Example
+## :sparkles: Examples
 
 ![Example: Java Calculator](Screenshots/screenshot.png)
 
